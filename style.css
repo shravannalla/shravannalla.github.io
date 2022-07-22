@@ -1,0 +1,199 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&display=swap');
+
+#top-bar{
+    background-color: black;
+    padding: 12px;
+    border-radius: 5px;
+}
+
+.menu{
+    font-size: 12px;
+    padding: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-weight: 600;
+    background-color: oldlace;
+    border-radius: 6px;
+    margin-top: 0px;
+}
+
+.label{
+    float: left;
+}
+
+.logo{
+    height: 100px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  width: 25%;
+}
+
+.bg{
+    background-image: url(https://img.freepik.com/free-photo/dark-street-background-reflection-blue-red-neon-asphalt_129911-31.jpg?w=360);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#bar{
+    padding-top: 10px;
+}
+
+.icon{
+    height: 50px;
+    width: 50px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+form{
+    text-align: center;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 16px;
+    column-gap: 3%;
+    padding-left: 100px;
+}
+
+.games-image{
+    width: 200;
+    height: 300;
+}
+
+.form-heading{
+    font-size: 32px;
+}
+
+
+.input-box{
+    font-size: 18px;
+    padding-bottom: 18px;
+    margin-bottom: 12px;
+    border: 0;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    border-radius: 6px;
+}
+
+#input-box-2{
+    font-size: 14px;
+    padding-bottom: 18px;
+    margin-bottom: 12px;
+    border: 0;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    border-radius: 6px;
+}
+
+#input-wrapper{
+    padding-top: 80px;
+    padding-bottom: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.input-wrap{
+    padding-bottom: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+#btn{
+    background-color: green;
+    padding: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-size: 18px;
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+.menu:hover{
+    color: white;
+    background-color: black;
+    font-size: 100.005%;
+}
+
+.image-one{
+    height: 300Px;
+    width: 480px;
+}
+
+.content {
+    color:black;
+    padding: 20px 0 20px 20px;
+    height:700px;
+}
+
+.formcontainer{
+    width: 100%;
+    background-color: honeydew;
+}
+
+.label{
+    text-align: left;
+    font-size: 14px;
+}
+
+.footcontainer{
+    width: 100%;
+    background-color: honeydew;
+    border-radius: 5px;
+    margin-bottom: 0px;
+}
+
+.new-font{
+    font-family: 'Poppins', sans-serif;
+}
+
+.section{
+    width: 100%;
+    min-height:100vh;
+    background-color: #ccc;
+    border-radius: 6px;
+}
+
+.container{
+    width: 80%;
+    display: block;
+    margin: auto;
+    padding-top: 100px;
+}
+
+.content-section{
+    float: left;
+    width: 55%;
+}
+
+.image-section{
+    float: right;
+    width: 40%;
+}
+
+.image-section img{
+    
+    width: 100%;
+    height: auto;
+}
+
+::-webkit-input-placeholder {
+    text-align: center;
+}
